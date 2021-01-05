@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "549543459567",
+    "firebase_url": "https://flash-chat-d68eb.firebaseio.com",
+    "project_id": "flash-chat-d68eb",
+    "storage_bucket": "flash-chat-d68eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549543459567:android:3b719604c0024d37b9f91a",
+        "android_client_info": {
+          "package_name": "com.tasle7app.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549543459567-obv360i3o44scd1rbe51g49jcltangmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHY_1-j7l77fsHA3ufEv0JzJDT5skOe64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549543459567-obv360i3o44scd1rbe51g49jcltangmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
